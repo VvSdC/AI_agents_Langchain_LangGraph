@@ -6,6 +6,8 @@ LangChain is a powerful framework designed to build applications with large lang
 
 RAG enhances the capability of LLMs by integrating external knowledge sources. Instead of relying solely on pre-trained knowledge, the model retrieves relevant context to generate more accurate and up-to-date responses.
 
+<br>
+
 ### 🧠 How RAG Works
 
 The RAG pipeline consists of the following steps:

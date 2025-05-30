@@ -1,0 +1,8 @@
+Welcome to my GitHub!
+
+Let me briefly introduce myself.
+I am Vummethala Venkata Sri Datta Charan. I completed my Bachelor's degree in Computer Science and Engineering at PDPM IIITDM Jabalpur, graduating in 2024. During my time at the institute, I gained a solid understanding of databases and worked with both front-end and back-end technologies such as React, Next.js, JavaScript, and Node.js. I have built some amazing applications using these technologies.
+
+After graduation, I joined Infosys as a Specialist Programmer. There, I had the opportunity to learn and work on Generative AI and Responsible AI principles, including safety, security, privacy, explainability, bias, and transparency. I feel privileged to work in such a high-demand and future-focused domain.
+
+Regarding my JEE journey, I secured a 98.97 percentile in JEE Main with an All India Rank of 11,627. I also qualified JEE Advanced with a score of 37% and achieved a rank of around 12,000.
