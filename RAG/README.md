@@ -1,8 +1,4 @@
-# LangChain
-
-LangChain is a powerful framework designed to build applications with large language models (LLMs) using composable components.
-
-## 🔍 Key Component: RAG (Retrieval-Augmented Generation)
+# 🔍 RAG (Retrieval-Augmented Generation)
 
 RAG enhances the capability of LLMs by integrating external knowledge sources. Instead of relying solely on pre-trained knowledge, the model retrieves relevant context to generate more accurate and up-to-date responses.
 
